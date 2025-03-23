@@ -25,6 +25,10 @@ showThemeNotice = true
 showPostsSummary = true
 numberOfPosts = 5
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 # Navigation
 [menu]
   [[menu.main]]

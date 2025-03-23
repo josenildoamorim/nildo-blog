@@ -14,6 +14,14 @@
             <p class="lh-lg">
                 {{ .Content }}
             </p>
+            <!-- Filtra apenas os posts -->
+            {{ range where .Site.Pages "Type" "post" }} 
+                <article> 
+                    <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                    <p>{{ .Summary }}</p> 
+                    <a href="{{ .Permalink }}" class="btn btn-link">Read more</a> 
+                </article> 
+            {{ end }}
         </div>
     </div>
 </div>

@@ -1,6 +1,7 @@
 +++
 date = '2025-03-23T14:46:28Z'
 draft = false
+type = "post"
 title = 'Porque 1999?'
 +++
 

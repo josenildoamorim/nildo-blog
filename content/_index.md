@@ -1,7 +1,13 @@
 ---
-lead: "Basic, simple and minimal Hugo theme"
+lead: "desabafando como se ainda fosse 1999"
 ---
 
-This is a demo of the `not-much` theme, built with Hugo, and is intended to be trouble-free. Explore it to see what `not-much` has to offer.
+# bem vindos
 
-# Todos os Posts
+Esse é o meu blog pessoal. Logo, tudo aqui são ideias, pensamentos e experiências meus. As opiniões expressas aqui são exclusivamente minhas e não representam necessariamente as de qualquer organização ou grupo com o qual eu esteja associado.
+
+Se quiser saber mais sobre mim, visita a página [sobre](sobre)
+
+---
+
+# todos os posts

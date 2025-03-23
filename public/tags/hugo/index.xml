@@ -7,22 +7,8 @@
     <generator>Hugo</generator>
     <language>pt-br</language>
     <copyright>Todos os direitos reservados © {year}</copyright>
-    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hugo Table of Contents showcase</title>
-      <link>http://localhost:1313/posts/toc-showcase/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/toc-showcase/</guid>
-      <description>This post shows the default Hugo Table of Contents and how not-much handle it.</description>
-    </item>
-    <item>
-      <title>Hugo shortcodes</title>
-      <link>http://localhost:1313/posts/hugo-shortcodes/</link>
-      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hugo-shortcodes/</guid>
-      <description>This post shows the default Hugo shortcodes and how they are rendered.</description>
-    </item>
     <item>
       <title>Welcome To not-much</title>
       <link>http://localhost:1313/posts/example-post/</link>

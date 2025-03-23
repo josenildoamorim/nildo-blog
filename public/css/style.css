@@ -1,0 +1,5 @@
+.img-custom {
+    width: 100%; /* A imagem ocupa 100% do tamanho do container */
+    max-width: 600px; /* Limite a largura a 600px */
+    height: auto; /* Mantém a proporção da imagem */
+  }

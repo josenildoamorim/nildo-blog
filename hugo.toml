@@ -13,17 +13,15 @@ copyright = "Todos os direitos reservados © {year}"
 
 [markup]
   [markup.highlight]
-    style = 'dracula'
+    style = 'catpuccin'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
 [params]
-theme = "dark"
 palette = "catpuccin"
-showThemeNotice = true
+showThemeNotice = false
 showPostsSummary = true
-numberOfPosts = 5
 
 [caches]
   [caches.images]
@@ -51,4 +49,18 @@ numberOfPosts = 5
     title = "sobre"
     url = "/sobre"
     weight = 2
+
+  [[menu.main]]
+    identifier = "recomendações"
+    name = "recomendações"
+    title = "recomendações"
+    url = "/recomendacoes"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "newsletter"
+    name = "newsletter"
+    title = "newsletter"
+    url = "/newsletter"
+    weight = 5
 

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Blog do Nildo</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Blog do Nildo</description>
+    <title>Posts Copies on Blog do Nildo</title>
+    <link>http://localhost:1313/posts-copy/</link>
+    <description>Recent content in Posts Copies on Blog do Nildo</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <copyright>Todos os direitos reservados © {year}</copyright>
     <lastBuildDate>Sun, 23 Mar 2025 14:46:28 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts-copy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Porque 1999?</title>
-      <link>http://localhost:1313/posts/porque-1999/</link>
+      <link>http://localhost:1313/posts-copy/porque-1999/</link>
       <pubDate>Sun, 23 Mar 2025 14:46:28 +0000</pubDate>
-      <guid>http://localhost:1313/posts/porque-1999/</guid>
+      <guid>http://localhost:1313/posts-copy/porque-1999/</guid>
       <description>&lt;p&gt;Ontem era por volta das 3 da madrugada quando me bateu uma louca e pensei: &amp;ldquo;cara, vou abrir um blog&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Estava eu sobre efeito de substancias que me deixam mais alegre e criativo? Sim. Mas a real é que andamos extremamente saturados de informação por conta das redes sociais. Somos bombardeados por todo o tipo de post, de gente desconhecida e suas rotinas inalcançaveis pelo pobre trabalhador até os mais irritantes anuncios de produtos que eu não preciso. Entre trocentos algoritimos, acabei me desencontrando.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -5,9 +5,9 @@ type = "sobre"
 draft = false
 +++
 
-<img src="/images/bio_josenildo_amorim.jpg" alt="Imagem do Nildo" width="300">
+# Oi, sou o Nildo
 
-# Olá!
+<br>
 
 Vamos começar pelo básico: Nascido e criado no Rio de Janeiro, millenial, morando do outro lado do Atlântico. Trabalho na área de informática por muitos anos, e atualmente sou também professor do ensino básico/fundamental.
 

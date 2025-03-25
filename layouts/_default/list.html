@@ -6,14 +6,18 @@
     </div>
     {{ .Content }}
     
-    {{ if eq .Section "posts" }}
+    {{ if eq .Section "blog" }}
       {{ $paginator := .Paginate .Pages }}
       {{ range $paginator.Pages }}
       <div class="row mb-3">
         {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
         {{ $dateHuman := .Date | time.Format ":date_long" }}
-        <time class="small" datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-        <h2 class="h5"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+        <article> 
+            <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+            <time class="small" datetime="{{ .Date }}">{{ .Date.Format "02 de janeiro, 2006" }}</time>
+            <p>{{ .Summary }}</p> 
+            <a href="{{ .Permalink }}">Leia mais</a> 
+        </article> 
       </div>
       {{ end }}
       {{ $paginator := .Paginator }}

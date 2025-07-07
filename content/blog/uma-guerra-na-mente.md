@@ -1,0 +1,18 @@
++++
+date = '2025-07-07'
+draft = false
+type = "post"
+title = 'As vezes sinto que tenho uma guerra na mente'
++++
+
+Vamos tentar isso aqui mais uma vez. Tentei escrever direto num caderninho, tipo um diário mesmo, mas acho que sou acostumado demais com o teclado, a tela, os bits. Amo o papel, mas tem algo em escrever muito que me cansa muito mais do que por um computador. Fora que escrever aqui tem um sentido nostálgico, de retorno aos anos 2000 e minha adolescência surfando pela web. É, os anos 2000 já são velhos o suficiente pra sentir nostalgia e romantizar o saco que era ficar conectando internet discada.
+
+Mas enfim, sobre o assunto principal... hoje não foi um dia legal. Por nada especificamente, mas simplismente pelo fato de que a vida adulta escolhe alguns dias aleatóriamente na semana para jogar todo o peso do mundo sobre a gente. Começa com uma reunião chatissima num projeto complicado que faz zero sentido (afinal quem fica rico com isso né?), e implanta ali um aborrecimento que vai acumulando, crescendo como uma bola de neve e destruindo qualquer interação social no caminho até atingir seu ápice e se tornar uma crise existencial contra o capitalismo e como o ocidente está em colpaso justamente na minha vez de viver
+
+Intenso né? Mas juro que isso não é todo dia. Como eu disse, a vida escolhe um dia, geralmente depois de vários dias ótimos que te deram fé na humanidade, e decide te f*der. E não tem jeito, é lidar com isso.
+
+Fui correr pra tentar apaziguar a mente e realmente, quem diria, exercicios tem mesmo um efeito positivo no humor. Hoje no caso nem foi correr, foi uma caminhada bem tranquila ao som de umas músicas assim meio sofridas - eu gosto de me entregar ao momento. No meio dessas músicas tinha Get Free da musa Lana del Rey (a quem eu tive o prazer de encostar na mão dela no festival Planeta Terra em 2012, bom dizer), e c@ralho que letra poderosa. Me fez voltar um pouco a crise existencial do capitalismo, pensando em qual momento da vida eu tive que, como na música, decidir jogar o jogo de alguém ou viver a minha própria vida. Deve ter sido por volta de 2009 quando eu tive de começar a trabalhar para pagar a faculdade, e trabalhei de office boy. Lembro de uma humilhação que passei de um ricaço, bem estilo Marco Aurélio de Vale Tudo, porque atrasei 5 minutos com um documento importante pra uma reunião dele. Ele falou que aquela reunião valia mais dinheiro do que eu ganharia em 50 anos.
+
+Pesou o clima, desculpa. Mas a ideia é mostrar que nessa rotina, nessas agressões que a gente vai tolerando porque tem conta pra pagar, que a gente nem se dá conta e mistura o que é nossa vida e o que é trabalho, o que são objetivos nossos e o que são metas de uma corporação. E sei lá, eu já ando cansado disso faz muitos anos e não consigo sair do loop. Todos os planos que consigo traçar para sair de um trabalho corporativo e retomar o controle da minha força de trabalho parecem que vão demorar anos, e ainda sim vão depender que eu continue engolindo sapos - menos do que antes, felizmente, e ganhando mais - justamente desse sistema que não vai facilitar nem um pouco pra que eu saia dele.
+
+Mas bem, agora quase no fim do dia, estou mais em paz. Não por saber o que fazer ou por ter algum plano mirabolante pra ganhar dinheiro fácil, mas só comemorando mesmo que o expediente acabou, é verão e vou acender um cigarro na varanda depois de postar isso aqui. É minha pequena libertação do sistema por hoje... out of the black, into the blue

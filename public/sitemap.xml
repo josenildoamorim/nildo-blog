@@ -2,29 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://nildo.blog.br/</loc>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nildo.blog.br/blog/uma-guerra-na-mente/</loc>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nildo.blog.br/blog/</loc>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nildo.blog.br/blog/vale-tudo/</loc>
     <lastmod>2025-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/vale-tudo/</loc>
-    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/porque-1999/</loc>
+    <loc>https://nildo.blog.br/blog/porque-1999/</loc>
     <lastmod>2025-03-23T14:46:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/newsletter/</loc>
+    <loc>https://nildo.blog.br/newsletter/</loc>
     <lastmod>2024-12-16T11:30:04+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recomendacoes/</loc>
+    <loc>https://nildo.blog.br/recomendacoes/</loc>
     <lastmod>2024-12-16T11:30:04+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sobre/</loc>
+    <loc>https://nildo.blog.br/sobre/</loc>
     <lastmod>2024-12-16T11:30:04+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://nildo.blog.br/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://nildo.blog.br/tags/</loc>
   </url>
 </urlset>

@@ -3,10 +3,6 @@ baseURL = "https://nildo.blog.br/"
 languageCode = "pt-br"
 title = "Blog do Nildo"
 theme = "not-much"
-contentDir = "content"
-dataDir = "data"
-assetDir = "static"
-publishDir = "public"
 description = "Desabafando como se ainda fosse 1999"
 copyright = "Todos os direitos reservados © {year}"
 
@@ -18,9 +14,9 @@ copyright = "Todos os direitos reservados © {year}"
       unsafe = true
 
 [params]
-palette = "catpuccin"
-author = "Nildo Amorim"
-showThemeNotice = false
+theme = "dark"
+palette = "dracula"
+showThemeNotice = true
 showPostsSummary = true
 
 [caches]

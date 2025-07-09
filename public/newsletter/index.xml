@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>newsletter on Blog do Nildo</title>
-    <link>https://nildo.blog.br/newsletter/</link>
+    <link>http://localhost:1313/newsletter/</link>
     <description>Recent content in newsletter on Blog do Nildo</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <copyright>Todos os direitos reservados © {year}</copyright>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://nildo.blog.br/newsletter/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/newsletter/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

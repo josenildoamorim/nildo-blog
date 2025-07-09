@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Blog do Nildo</title>
-    <link>https://nildo.blog.br/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blogs on Blog do Nildo</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <copyright>Todos os direitos reservados © {year}</copyright>
     <lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nildo.blog.br/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>As vezes sinto que tenho uma guerra na mente</title>
-      <link>https://nildo.blog.br/blog/uma-guerra-na-mente/</link>
+      <link>http://localhost:1313/blog/uma-guerra-na-mente/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://nildo.blog.br/blog/uma-guerra-na-mente/</guid>
+      <guid>http://localhost:1313/blog/uma-guerra-na-mente/</guid>
       <description>&lt;p&gt;Vamos tentar isso aqui mais uma vez. Tentei escrever direto num caderninho, tipo um diário mesmo, mas acho que sou acostumado demais com o teclado, a tela, os bits. Amo o papel, mas tem algo em escrever muito que me cansa muito mais do que por um computador. Fora que escrever aqui tem um sentido nostálgico, de retorno aos anos 2000 e minha adolescência surfando pela web. É, os anos 2000 já são velhos o suficiente pra sentir nostalgia e romantizar o saco que era ficar conectando internet discada.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vale Tudo e a torre</title>
-      <link>https://nildo.blog.br/blog/vale-tudo/</link>
+      <link>http://localhost:1313/blog/vale-tudo/</link>
       <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://nildo.blog.br/blog/vale-tudo/</guid>
+      <guid>http://localhost:1313/blog/vale-tudo/</guid>
       <description>&lt;p&gt;Estou terminando pela primeira vez a novela &lt;a href=&#34;https://memoriaglobo.globo.com/entretenimento/novelas/vale-tudo/&#34;&gt;Vale Tudo&lt;/a&gt;. Sou de 1991, então quando nasci já tinham uns anos que a novela foi ao ar (e poucos meses que Lidia Brondi anunciava que estava se retirando da vida artistica). A memória que tinha da novela é da cultura popular carioca, brasileira, que ficou enraizado com bordões, nome de personagens, suas falcatruas e uma pergunta: &lt;strong&gt;quem matou Odete Roittman?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mas, um episódio antes de Odete morrer (sim, Odete morre. isso não é mais um spoiler faz 35 anos), no capítulo 192, tem duas cenas muito marcantes e impactantes, de mães e filhas e um embate profundo e doloroso em níveis diferentes, com uma atuação impecável de Beatriz Segal, Renata Sorrah, Regina Duarte e Glória Pires.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Porque 1999?</title>
-      <link>https://nildo.blog.br/blog/porque-1999/</link>
+      <link>http://localhost:1313/blog/porque-1999/</link>
       <pubDate>Sun, 23 Mar 2025 14:46:28 +0000</pubDate>
-      <guid>https://nildo.blog.br/blog/porque-1999/</guid>
+      <guid>http://localhost:1313/blog/porque-1999/</guid>
       <description>&lt;p&gt;Ontem era por volta das 3 da madrugada quando me bateu uma louca e pensei: &amp;ldquo;cara, vou abrir um blog&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Estava eu sobre efeito de substancias que me deixam mais alegre e criativo? Sim. Mas a real é que andamos extremamente saturados de informação por conta das redes sociais. Somos bombardeados por todo o tipo de post, de gente desconhecida e suas rotinas inalcançaveis pelo pobre trabalhador até os mais irritantes anuncios de produtos que eu não preciso. Entre trocentos algoritimos, acabei me desencontrando.&lt;/p&gt;</description>
     </item>
   </channel>

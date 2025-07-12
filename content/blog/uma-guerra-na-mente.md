@@ -1,5 +1,5 @@
 +++
-date = '2025-07-07'
+date = '2025-07-07T19:56:53+01:00'
 draft = false
 type = "post"
 title = 'As vezes sinto que tenho uma guerra na mente'
